@@ -42,8 +42,8 @@ The file [`input.txt`](./input.txt) serves as an example input and contains 1249
 ## Runtime
 On my non-dedicated laptop clustering in 4 clusters takes an average of ~ 0.3 seconds and in 10 clusters - about 0.7 seconds.
 
-## RESULTS
+## Results
 The result of execution are stored as a text file named output.txt inside the directory example.
 
-## REPORT
+## Report
 View pdf in Documentation folder.
